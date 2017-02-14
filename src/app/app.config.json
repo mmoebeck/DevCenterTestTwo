@@ -1,0 +1,15 @@
+{
+	"appname": "DevCenterTestTwo",
+	"scope": "FullAccess",
+	"clientid": "9E38F02A-59D7-4BBE-8279-3194DDDE5CEB",
+	"buyerid": "eek5gAuHWU6XpCooqQv2mA",
+	"catalogid": "eek5gAuHWU6XpCooqQv2mA",
+	"environment": "production",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
